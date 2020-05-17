@@ -1,4 +1,6 @@
 ---
-:page_id: 3464
-:course_id: 239
-:canvas_url: https://learning.flatironschool.com/courses/239/pages/tcg-cmd-challenge
+:lessons:
+- :id: 3943
+  :course_id: 272
+  :canvas_url: https://learning.flatironschool.com/courses/272/pages/tcg-cmd-challenge
+  :type: page
